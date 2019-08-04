@@ -1,7 +1,7 @@
 # cpuminer-cpupower-x86
 cpuminer-opt - cpupower x86 for 32 bit windows xp, windows 7
 
-**x86 32 bits miner for CPUchain**
+**x86 32 bit miner for CPUchain**
 
 ```minerd.exe -a cpupower -o stratum+tcp://cpu-pool.com:63388 -u WALLET_ADDRESS```
 
